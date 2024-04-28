@@ -5,6 +5,7 @@
 - Just in case you wanted to have a BeeJay XL with a bodybag on the seats.
 
 ## More information:
+- v9.7 for 1.68
 - Doesn't use any natives whatsoever.
 
 ## Tested compatability:
